@@ -1,2 +1,2 @@
 # AutoUnInstaller
-An easy way to install multiple GNU/Linux Disrtoes applications based on debian. 
+An easy way to remove multiple GNU/Linux Disrtoes applications based on debian. 
