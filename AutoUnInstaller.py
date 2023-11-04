@@ -7,7 +7,7 @@ from getpass import getpass as input_password
 
 
 def what_it_is(program_name):
-    print("==================== uninstall " + program_name + " ====================")
+    print("==================== Uninstall " + program_name + " ====================")
 
 
 def do_clean(root_password):
@@ -39,7 +39,7 @@ def execure_as_root(root_password, command):
 
 def logo():
     print("######################################")
-    print("#            Autouninstall_er         #")
+    print("#            AutoUnInstaller         #")
     print("######################################")
     print("By AlexNottaBen")
 

@@ -1,2 +1,4 @@
 # AutoUnInstaller
-An easy way to remove multiple GNU/Linux Disrtoes applications based on debian. 
+An easy way to uninstall multiple applications on Debian and its derivatives.
+
+![screnshots](./screenshots/screenshot.png)
